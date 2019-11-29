@@ -1,0 +1,31 @@
+C:\Users\Reca\source\repos\WindowsFormsApp2\RentingCars\obj\Debug\RentingCars.csprojAssemblyReference.cache
+C:\Users\Reca\source\repos\WindowsFormsApp2\RentingCars\obj\Debug\RentingCars.Form1.resources
+C:\Users\Reca\source\repos\WindowsFormsApp2\RentingCars\obj\Debug\RentingCars.Properties.Resources.resources
+C:\Users\Reca\source\repos\WindowsFormsApp2\RentingCars\obj\Debug\RentingCars.csproj.GenerateResource.cache
+C:\Users\Reca\source\repos\WindowsFormsApp2\RentingCars\obj\Debug\RentingCars.csproj.CoreCompileInputs.cache
+C:\Users\Reca\source\repos\WindowsFormsApp2\RentingCars\bin\Debug\RentingCars.exe.config
+C:\Users\Reca\source\repos\WindowsFormsApp2\RentingCars\bin\Debug\RentingCars.exe
+C:\Users\Reca\source\repos\WindowsFormsApp2\RentingCars\bin\Debug\RentingCars.pdb
+C:\Users\Reca\source\repos\WindowsFormsApp2\RentingCars\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+C:\Users\Reca\source\repos\WindowsFormsApp2\RentingCars\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Reca\source\repos\WindowsFormsApp2\RentingCars\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Reca\source\repos\WindowsFormsApp2\RentingCars\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Reca\source\repos\WindowsFormsApp2\RentingCars\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Reca\source\repos\WindowsFormsApp2\RentingCars\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Reca\source\repos\WindowsFormsApp2\RentingCars\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Reca\source\repos\WindowsFormsApp2\RentingCars\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Reca\source\repos\WindowsFormsApp2\RentingCars\obj\Debug\RentingCars.csproj.CopyComplete
+C:\Users\Reca\source\repos\WindowsFormsApp2\RentingCars\obj\Debug\RentingCars.exe
+C:\Users\Reca\source\repos\WindowsFormsApp2\RentingCars\obj\Debug\RentingCars.pdb
+C:\Users\Reca\source\repos\WindowsFormsApp2\RentingCars\obj\Debug\RentingCars.Views.Form2.resources
+C:\Users\Reca\source\repos\WindowsFormsApp2 - Copy (2)\RentingCars\obj\Debug\RentingCars.Properties.Resources.resources
+C:\Users\Reca\source\repos\WindowsFormsApp2 - Copy (2)\RentingCars\obj\Debug\RentingCars.Views.Form1.resources
+C:\Users\Reca\source\repos\WindowsFormsApp2 - Copy (2)\RentingCars\obj\Debug\RentingCars.csproj.GenerateResource.cache
+C:\Users\Reca\source\repos\WindowsFormsApp2 - Copy (2)\RentingCars\obj\Debug\RentingCars.csproj.CoreCompileInputs.cache
+C:\Users\Reca\source\repos\WindowsFormsApp2 - Copy (2)\RentingCars\bin\Debug\RentingCars.exe.config
+C:\Users\Reca\source\repos\WindowsFormsApp2 - Copy (2)\RentingCars\bin\Debug\RentingCars.exe
+C:\Users\Reca\source\repos\WindowsFormsApp2 - Copy (2)\RentingCars\bin\Debug\RentingCars.pdb
+C:\Users\Reca\source\repos\WindowsFormsApp2 - Copy (2)\RentingCars\obj\Debug\RentingCars.csproj.CopyComplete
+C:\Users\Reca\source\repos\WindowsFormsApp2 - Copy (2)\RentingCars\obj\Debug\RentingCars.exe
+C:\Users\Reca\source\repos\WindowsFormsApp2 - Copy (2)\RentingCars\obj\Debug\RentingCars.pdb
+C:\Users\Reca\source\repos\WindowsFormsApp2 - Copy (2)\RentingCars\obj\Debug\RentingCars.csprojAssemblyReference.cache
