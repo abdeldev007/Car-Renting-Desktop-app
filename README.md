@@ -4,9 +4,9 @@
  
  SCREENSHOTS
 
-<img src="https://github.com/abdeldev007/Car-Renting-Desktop-app/blob/master/screenshots/c1.PNG" width="40%">
+<img src="https://github.com/abdeldev007/Car-Renting-Desktop-app/blob/master/screenshots/c1.PNG" width="100%">
 
-<img src="https://github.com/abdeldev007/Car-Renting-Desktop-app/blob/master/screenshots/c2.PNG" width="40%"> 
+<img src="https://github.com/abdeldev007/Car-Renting-Desktop-app/blob/master/screenshots/c2.PNG" width="100%"> 
   </div>
 
 
