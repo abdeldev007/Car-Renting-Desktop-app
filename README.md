@@ -1,4 +1,4 @@
-# Car-Renting-Desktop-app
+# Visual Studio with SQL Server mini project
 
  <div align="center">
  
